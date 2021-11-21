@@ -1,0 +1,20 @@
+{
+  "name": "testcafe-example",
+  "version": "1.0.0",
+  "description": "An example project using testcafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/specs/*"
+  },
+  "keywords": [
+    "TestCafe",
+    "E2E",
+    "Test",
+    "Automation"
+  ],
+  "author": "Jacques Schmitz Junior",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.17.1"
+  }
+}
